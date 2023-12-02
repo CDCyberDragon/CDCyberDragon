@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi! I'm CD/Loki.
+
+- 💀 I am Deathly Afraid of Kotlin
+- ⚡ I scream in OpenGL and Java
+- 🌱 I make custom models and textures
+- 💬 Ask me about Big Mouth Heron
+- ✨ I'm not a Dev, i'm Devious
+
 
 <!--
 **CDCyberDragon/CDCyberDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
